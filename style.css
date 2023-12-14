@@ -1,0 +1,24 @@
+.container{
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.imagen{
+    font-size: 80px;
+}
+
+/* .thead{
+    display: flex;
+    gap: 100px;
+} */
+
+tr{
+    display: flex;
+    justify-content: space-between;
+    gap: 250px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
